@@ -1,0 +1,77 @@
+
+{
+  "binance_id": "517953304",
+  "redotpay_id": "1124651519",
+  "kofi_url": "https://ko-fi.com/kacemlabs",
+  "binance_image": "binance.png",
+  "redotpay_image": "redotpay.jpg",
+  
+"crypto": {
+  "usdt": {
+    "name": "USDT",
+    "emoji": "₮",
+    "networks": {
+      "BEP20": "0x0530b1891895F843a1be86A9B4f1ECb1B1C9d7a0",
+      "TRC20": "TMp7nuvDXqpFLioECLBAgBNPX2FaG5b1rP",
+      "Arbitrum One": "0x0530b1891895F843a1be86A9B4f1ECb1B1C9d7a0",
+      "ERC20": "0x0530b1891895F843a1be86A9B4f1ECb1B1C9d7a0"
+    }
+  },
+  "usdc": {
+    "name": "USDC",
+    "emoji": "💵",
+    "networks": {
+      "BEP20": "0x0530b1891895F843a1be86A9B4f1ECb1B1C9d7a0"
+    }
+  },
+  "btc": {
+    "name": "Bitcoin (BTC)",
+    "emoji": "₿",
+    "networks": {
+      "Bitcoin": "18XwK3GEwM8e5NRcbZ4EXut2xCDLv4gUEt"
+    }
+  },
+  "ltc": {
+    "name": "Litecoin (LTC)",
+    "emoji": "Ł",
+    "networks": {
+      "Litecoin": "LbZt8wfX6MFZqW3VFabS3iqNAXkDgPvZvk"
+    }
+  },
+  "sol": {
+    "name": "Solana (SOL)",
+    "emoji": "◎",
+    "networks": {
+      "Solana": "8RmdBP8JN9tszcdgxiYsf eW7tVH8eiSTuq5MjC8CEN67"
+    }
+  },
+  "trx": {
+    "name": "TRON (TRX)",
+    "emoji": "🔴",
+    "networks": {
+      "TRC20": "TMp7nuvDXqpFLioECLBAgBNPX2FaG5b1rP"
+    }
+  },
+  "ton": {
+    "name": "Gram (TON)",
+    "emoji": "💎",
+    "networks": {
+      "TON": "UQDQW858X_vL7Gwc5TuqI2MM8mG_fOaG4uyooQyFDbajIXvG"
+    }
+  },
+  "xrp": {
+    "name": "XRP",
+    "emoji": "✕",
+    "networks": {
+      "XRP Ledger": "rhvXoFCo7gPmUaugJSyqoFxZ2MH8RKRmHY"
+    }
+  },
+  "bnb": {
+    "name": "BNB",
+    "emoji": "🟡",
+    "networks": {
+      "BEP20": "0x0530b1891895F843a1be86A9B4f1ECb1B1C9d7a0"
+    }
+  }
+}
+}
