@@ -22,7 +22,7 @@ A simple Telegram bot that converts text to Morse code and Morse code to text.
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/kacem001/Morsely.git
    cd Morsely
    ```
 
