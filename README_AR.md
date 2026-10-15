@@ -22,7 +22,7 @@
 1. استنسخ المستودع:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/kacem001/Morsely.git
    cd Morsely
    ```
 
